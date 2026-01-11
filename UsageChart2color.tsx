@@ -29,6 +29,7 @@ export default function ChartScreen() {
      <LinearGradient
   colors={[
     "#4CAF50",   // 🟢 1. উপরের গাঢ় সবুজ
+    "#4CAF50",   // 🟢 1. উপরের গাঢ় সবুজ
     "#6EDAB6",   // 💚 2. হালকা সবুজ
 
   ]}
